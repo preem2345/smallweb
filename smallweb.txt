@@ -1651,6 +1651,7 @@ https://blog.jibin.tech
 https://blog.jim-nielsen.com/feed.xml
 https://blog.jimgrey.net/feed/
 https://blog.jimmac.eu/feed.xml
+https://blog.jinskadwood.com/feed.xml
 https://blog.jmfd.me/feed/
 https://blog.jmp.chat/atom.xml
 https://blog.jobelenus.dev/atom.xml
@@ -4979,6 +4980,7 @@ https://incolumitas.com/feeds/all.atom.xml
 https://inconvergent.net/atom.xml
 https://increasinglyfunctional.com/feed.xml
 https://increment.com/feed.xml
+https://indiantinker.bearblog.dev/feed/
 https://indieblog.page/dailyfeed
 https://indieessentials.co.uk/feed/
 https://indieseek.xyz/feed/
@@ -8384,6 +8386,7 @@ https://sahansera.dev/rss.xml
 https://sahar.io/feed/
 https://sahilparikh.com/feed/feed.xml
 https://saidvandeklundert.net/feed.xml
+https://saigonboy.me/feed.xml
 https://sal.dev/feed.xml
 https://salem.io/feed.xml
 https://sallylait.com/blog/index.xml
